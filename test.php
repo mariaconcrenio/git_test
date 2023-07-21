@@ -6,7 +6,7 @@
 	<title>SAMPLE Training</title>
 </head>
 <body>
-	/**testrepo
+	/**testchanges
 	<h1>Show me!</h1>
 //git_testcommit
 </body>
