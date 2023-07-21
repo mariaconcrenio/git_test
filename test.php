@@ -7,6 +7,6 @@
 </head>
 <body>
 	<h1>Show me!</h1>
-//git_testwp
+//git_testcommit
 </body>
 </html>
